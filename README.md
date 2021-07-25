@@ -4,6 +4,7 @@ A project about recommeing recipes and ingredients based on the needs of the use
 
 Check the chatbot live demo [here](https://bot.dialogflow.com/0ce63197-ae9b-4166-ac4a-3b3d2ef8805c)
 Check the online colab notebook [here](https://colab.research.google.com/drive/16G9f3DvQIgmd81cZXNwj4g6TZEGaVC6L#scrollTo=PFkbEOZScvrC)
+Check the online report [here](https://docs.google.com/document/d/1-idlX4S09WMBCCJfDc1cRhLNbtSVo55K/edit#)
 
 
 

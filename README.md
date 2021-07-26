@@ -7,6 +7,9 @@ Check the online colab notebook [here](https://colab.research.google.com/drive/1
 Check the online report [here](https://docs.google.com/document/d/1-idlX4S09WMBCCJfDc1cRhLNbtSVo55K/edit#)
 
 
+### Data 
+Data was scraped using [apify](apify.com) from [allrecipes](allrecipes.com) in five different food categories [Breakfast, Lunch, Dinner, Snack, Dessert]
+
 
 ## In this project you can do the following
 

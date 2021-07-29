@@ -70,14 +70,6 @@ def webhook():
   
     x = str([x for x, c in wv.wv.most_similar(ing, topn=10)])
     fulfillmentText = 'I recommend to you the follow ingredients '+ x
-
-  elif query_result.get('action') == 'add.numbers':
-    num1 = int(query_result.get('parameters').get('number'))
-    num2 = int(query_result.get('parameters').get('number1'))
-    sum = str(num1 + num2)
-    print('here num1 = {0}'.format(num1))
-    print('here num2 = {0}'.format(num2))
-    fulfillmentText = 'The sum of the two numbers is '+sum
   return {
         "fulfillmentText": fulfillmentText,
         "source": "webhookdata"

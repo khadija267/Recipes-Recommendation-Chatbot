@@ -51,7 +51,6 @@ Check the online report [here](https://docs.google.com/document/d/1-idlX4S09WMBC
 - [data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
 - [Contribute](#contribute)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
@@ -91,17 +90,6 @@ To use this project, first clone the repo on your device using the command below
 
 Save models using pickle library.
 Use replit.com to connect between the python code "main.py" and digital flow.
-
-# Development
-[(Back to top)](#table-of-contents)
-
-This is the place where you give instructions to developers on how to modify the code.
-
-You could give **instructions in depth** of **how the code works** and how everything is put together.
-
-You could also give specific instructions to how they can setup their development environment.
-
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration.
 
 # Contribute
 [(Back to top)](#table-of-contents)

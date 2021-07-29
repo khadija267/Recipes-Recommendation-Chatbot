@@ -4,8 +4,6 @@
 
 # Tasty Chatbot 
 #### (under construction)
-<!-- Add banner here -->
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
 
 # Project Title
 
@@ -57,7 +55,6 @@ Check the online report [here](https://docs.google.com/document/d/1-idlX4S09WMBC
 - [Contribute](#contribute)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
-- [Footer](#footer)
 
 
 # Data 
@@ -118,8 +115,5 @@ Ideally, you should keep the README simple. If you need to add more complex expl
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
-# Footer
-[(Back to top)](#table-of-contents)
-
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+Enjoy your AI recipe!
+![Footer](https://github.com/khadija267/recipe_recommendation/blob/main/images/various-spices-recipe-word-vintage-background-copyspace-selective-focus-food-baking-cooking-concept-97076702.jpg)

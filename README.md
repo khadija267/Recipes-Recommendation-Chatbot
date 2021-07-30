@@ -69,7 +69,7 @@ To use this project, first clone the repo on your device using the command below
 
 ```git init```
 
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git```
+```git clone https://github.com/khadija267/recipe_recommendation.git```
 ## In this project you can do the following
 
 ### Get a recipe recommendation based on given ingredients

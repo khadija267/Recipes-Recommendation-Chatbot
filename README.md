@@ -42,6 +42,9 @@ Check the online report [here](https://docs.google.com/document/d/1-idlX4S09WMBC
 # Demo-Preview
 <!-- Add a demo for your project -->
 ![alt text](https://github.com/khadija267/recipe_recommendation/blob/main/images/Screenshot%20from%202021-07-25%2013-37-38.png)
+![alt text](https://github.com/khadija267/recipe_recommendation/blob/main/images/Screenshot%20from%202021-07-25%2011-38-34.png)
+![alt text](https://github.com/khadija267/recipe_recommendation/blob/main/images/Screenshot%20from%202021-07-25%2013-32-32.png)
+
 
 # Table of contents
 
